@@ -1,6 +1,4 @@
-import 'package:schedule_table/models/schedule.dart';
-
-
+// import '../models/schedule.dart';
 
 import '../models/schedule.dart';
 import 'package:flutter/material.dart';
@@ -237,4 +235,4 @@ class ScheduleData with ChangeNotifier {
   }
 }
 
-ScheduleData().Schedule;
+// ScheduleData().Schedule;
